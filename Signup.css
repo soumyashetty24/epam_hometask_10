@@ -1,0 +1,65 @@
+.form{
+       border-style: outset;
+    height: 650px;
+    margin-top: 30px;
+    border-radius: 1%;
+  }
+  .top{
+      height:50px;
+      
+      background-color: cornflowerblue;
+      color: azure;
+       border-radius: 3%;
+      text-align: center;
+       padding-top: 1%;
+      
+  }
+  
+  #input_img {
+      position:absolute;
+      width: 35px;
+      bottom:2px;
+      right:5px;
+    
+      height:35px;
+  }
+  
+  .input-icons { 
+      position: relative;
+      margin-top: 4%;
+      margin-bottom: 10px; 
+  } 
+  .input-icons i { 
+      position: absolute; 
+      left:0;
+      top:50px;
+      padding:9px 8px;
+  } 
+  
+  .icon { 
+      padding: 10px; 
+      min-width: 40px; 
+  } 
+    
+  .input-field { 
+      width: 100%; 
+      padding: 10px; 
+      text-align: left; 
+  } 
+  
+  h4 {
+      width: 100%; 
+      text-align: center; 
+      border-bottom: 1px solid #000; 
+      line-height: 0.1em;
+      margin: 20px 0 10px; 
+      opacity: 50%;
+      
+   } 
+   
+   h4 span { 
+       background:#fff; 
+       
+  
+       
+   }
